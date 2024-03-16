@@ -112,3 +112,23 @@ header, footer {
     background-color: var(--color1);
     margin: 15px auto 30px;
   }
+
+  /* Для кого курс */
+.forwhom h5 {
+    padding: 50px;
+    border: 3px solid var(--color1);
+  }
+
+  /* Цвет и фон */
+.color1 {
+    color: var(--color1);
+  }
+  .bg1 {
+    background-color: var(--color1);
+  }
+  .color2 {
+    color: var(--color2);
+  }
+  .bg2 {
+    background-color: var(--color2);
+  }
