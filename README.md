@@ -4,7 +4,7 @@
 
 <br>
 
-*Сайт по которому мы верстаем:* [https://morphismail.github.io/video_course_basic/](https://https://morphismail.github.io/video_course_basic/)
+*Сайт по которому мы верстаем:* [https://morphismail.github.io/video_course_basic/](https://morphismail.github.io/video_course_basic/)
 
 *Оффициальный сайт Bootstrap 5:* [https://getbootstrap.com/](https://getbootstrap.com/)
 
